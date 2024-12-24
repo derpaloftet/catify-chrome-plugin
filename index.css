@@ -1,14 +1,14 @@
 * {
     box-sizing: border-box;
-}    
+}
 
 body {
     margin: 0;
-    background: no-repeat center center fixed; 
+    background: no-repeat center center fixed;
     background-size: cover;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    text-shadow: 0px 0px 20px #242424;
+    text-shadow: 0 0 20px #242424;
 }
 
 main {
@@ -19,32 +19,32 @@ main {
     justify-content: space-between;
 }
 
-div.top {
+.top {
     display: flex;
     justify-content: space-between;
 }
 
-h1.time {
+#time {
     text-align: center;
     font-size: 5rem;
 }
 
-.lyrics {
+#lyrics {
     font-size: 1.3rem;
     display: flex;
     flex-direction: column;
-    align-items:  flex-start;
+    align-items: flex-start;
     margin-bottom: 5px;
     text-shadow: #FC0 1px 0 10px;
-    font-family:  Courier New, Courier, monospace;
+    font-family: Courier New, Courier, monospace;
     max-width: 30%;
 }
-div#lyrics > p {
+
+#lyrics > p {
     margin: 0;
-    
 }
 
-div#weather {
+#weather {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -53,24 +53,22 @@ div#weather {
     margin-top: -20px;
 }
 
-div#weather > img {
+#weather > img {
     width: 70px;
 }
 
-p.weather-city {
+.weather-city {
     width: 100%;
     text-align: right;
-    margin: 0;
-    margin-top: -10px;
+    margin: -10px 0 0;
     font-size: 1.2rem;
 }
 
-p.weather-temp {
-    margin: 0;
+.weather-temp {
     font-size: 1.7rem;
-    margin-left: -10px;
+    margin: 0 0 0 -10px;
 }
 
-p#author {
+#author {
     font-size: 1rem;
 }

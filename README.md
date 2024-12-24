@@ -1,21 +1,34 @@
-# co76e4623b6aeec382fb4baea
+# Catify Chrome Plugin
 
-Quick start:
+## What is Catify?
 
-```
-$ npm install
-$ npm start
-````
+Catify is a delightful Chrome plugin that transforms your new tab page into a helpful and visually stunning experience. 
+It features:
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- **Perfect Backgrounds**: Beautiful cat-themed wallpapers featuring the creator.
+- **Time Display**: Stay updated with the current time.
+- **Weather Updates**: Real-time weather for your current location.
+- **Random Lyrics**: Be inspired by random Taylor Swift's lyrics.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Installation Instructions
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Follow these simple steps to install Catify:
 
-Happy Coding!
+1. Open Chrome and navigate to:
+   **`Settings` > `Extensions` > Enable `Developer Mode`**
+2. Once Developer Mode is enabled:
+    - Click on **"Load unpacked extension"**.
+    - Select the folder containing this GitHub repository.
+That's it! Your Catify Chrome plugin is now installed and ready to make your new tabs awesome.
+
+## Technical Overview
+
+Catify is built using:
+
+- **Vanilla JavaScript**: Lightweight and dependency-free.
+- **Native APIs**: Fetch and DOM manipulation for seamless performance.
+- **Integrated APIs**: Each feature is powered by its own dedicated API to bring you cats, time, weather, and Taylor Swift's lyrics.
+
+---
+
+Catify: Where your love for cats meets your admiration for Taylor Swift's lyrics — all in one tab.

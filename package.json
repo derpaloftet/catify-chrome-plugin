@@ -1,13 +1,5 @@
 {
-  "name": "project",
+  "name": "catify-chrome-plugin",
   "dependencies": {},
-  "devDependencies": {
-    "vite": "latest"
-  },
-  "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  }
+  "devDependencies": {}
 }

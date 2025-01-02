@@ -1,6 +1,6 @@
 # Catify Chrome Plugin
 
-## What is Catify?
+## What is Catify
 
 Catify is a delightful Chrome plugin that transforms your new tab page into a helpful and visually stunning experience. 
 It features:
@@ -10,9 +10,9 @@ It features:
 - **Weather Updates**: Real-time weather for your current location.
 - **Random Lyrics**: Be inspired by random Taylor Swift's lyrics.
 
-## Installation Instructions
+## How to install
 
-Follow these simple steps to install Catify:
+To install Catify:
 
 1. Open Chrome and navigate to:
    **`Settings` > `Extensions` > Enable `Developer Mode`**
@@ -26,8 +26,8 @@ That's it! Your Catify Chrome plugin is now installed and ready to make your new
 Catify is built using:
 
 - **Vanilla JavaScript**: Lightweight and dependency-free.
-- **Native APIs**: Fetch and DOM manipulation for seamless performance.
-- **Integrated APIs**: Each feature is powered by its own dedicated API to bring you cats, time, weather, and Taylor Swift's lyrics.
+- **Native APIs**: Fetch and DOM manipulation.
+- **4 Integrated APIs**: Each feature is powered by its own dedicated API to bring you cats, time, weather, and Taylor Swift's lyrics.
 
 ---
 

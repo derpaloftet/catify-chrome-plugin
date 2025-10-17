@@ -2,7 +2,7 @@
 
 ## What is Catify
 
-Catify is a delightful Chrome plugin that transforms your new tab page into a helpful and visually stunning experience. 
+Catify is a delightful Chrome plugin that transforms your new tab page into a helpful and visually stunning experience.
 It features:
 
 - **Perfect Backgrounds**: Beautiful cat-themed wallpapers featuring the creator.
@@ -19,7 +19,7 @@ To install Catify:
 2. Once Developer Mode is enabled:
     - Click on **"Load unpacked extension"**.
     - Select the folder containing this GitHub repository.
-That's it! Your Catify Chrome plugin is now installed and ready to make your new tabs awesome.
+      That's it! Your Catify Chrome plugin is now installed and ready to make your new tabs awesome.
 
 ## Technical Overview
 
@@ -27,7 +27,8 @@ Catify is built using:
 
 - **Vanilla JavaScript**: Lightweight and dependency-free.
 - **Native APIs**: Fetch and DOM manipulation.
-- **4 Integrated APIs**: Each feature is powered by its own dedicated API to bring you cats, time, weather, and Taylor Swift's lyrics.
+- **4 Integrated APIs**: Each feature is powered by its own dedicated API to bring you cats, time, weather, and Taylor
+  Swift's lyrics.
 
 ---
 

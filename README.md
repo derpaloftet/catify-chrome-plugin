@@ -10,6 +10,15 @@ It features:
 - **Weather Updates**: Real-time weather for your current location.
 - **Random Lyrics**: Be inspired by random Taylor Swift's lyrics.
 
+## Technical Overview
+
+Catify is built using:
+
+- **Vanilla JavaScript**: Lightweight and dependency-free.
+- **Native APIs**: Fetch and DOM manipulation.
+- **4 Integrated APIs**: Each feature is powered by its own dedicated API to bring you cats, time, weather, and Taylor
+  Swift's lyrics.
+
 ## How to install
 
 To install Catify:
@@ -20,15 +29,6 @@ To install Catify:
     - Click on **"Load unpacked extension"**.
     - Select the folder containing this GitHub repository.
       That's it! Your Catify Chrome plugin is now installed and ready to make your new tabs awesome.
-
-## Technical Overview
-
-Catify is built using:
-
-- **Vanilla JavaScript**: Lightweight and dependency-free.
-- **Native APIs**: Fetch and DOM manipulation.
-- **4 Integrated APIs**: Each feature is powered by its own dedicated API to bring you cats, time, weather, and Taylor
-  Swift's lyrics.
 
 ---
 
